@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/repoerna/hms_app/utils/hash"
+	"github.com/repoerna/hms_app/api/utils/hash"
 
 	"github.com/badoux/checkmail"
 	"github.com/jinzhu/gorm"

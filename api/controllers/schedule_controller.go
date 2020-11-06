@@ -12,7 +12,7 @@ import (
 	"github.com/repoerna/hms_app/api/auth"
 	"github.com/repoerna/hms_app/api/handlers"
 	"github.com/repoerna/hms_app/api/models"
-	"github.com/repoerna/hms_app/utils/formaterror"
+	"github.com/repoerna/hms_app/api/utils/formaterror"
 )
 
 // CreateSchedule ...

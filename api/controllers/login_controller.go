@@ -7,8 +7,8 @@ import (
 	"strings"
 
 	"github.com/gorilla/mux"
-	"github.com/repoerna/hms_app/utils/formaterror"
-	"github.com/repoerna/hms_app/utils/hash"
+	"github.com/repoerna/hms_app/api/utils/formaterror"
+	"github.com/repoerna/hms_app/api/utils/hash"
 
 	"github.com/repoerna/hms_app/api/auth"
 	"github.com/repoerna/hms_app/api/handlers"
